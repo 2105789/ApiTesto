@@ -15,13 +15,13 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ai-api-tester.git
+   git clone https://github.com/2105789/ApiTesto.git
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   cd ai-api-tester
+   cd ApiTesto
    npm install
    ```
 
