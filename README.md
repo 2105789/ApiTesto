@@ -1,4 +1,9 @@
 ## AI-Powered API Tester 🚀
+![Test Results](https://raw.githubusercontent.com/2105789/ApiTesto/master/assets/images/TestCaseResult.png)
+
+**Modal**
+
+![Modal](https://raw.githubusercontent.com/2105789/ApiTesto/master/assets/images/TestCaseModal.png)
 
 **Tired of writing tedious API tests?** Let AI do the heavy lifting! 🤖 This Vue.js application harnesses the power of Google's Gemini AI to generate and execute comprehensive API tests, making your testing process smarter and more efficient.
 
